@@ -1,7 +1,0 @@
-This Folder contains the sourceCode files of the programmes I did in my Intro To Programming Lab 
-durig FALL 2015.In this lab I learnt the basic DataStructures using C++.
-Use command
-To compile the code
-make Filename
-to run the executable file 
-and ./filename
